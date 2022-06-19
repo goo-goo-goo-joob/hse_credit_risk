@@ -1,5 +1,9 @@
 # hse_credit_risk
 
+**Проект по оценке кредитного риска физических лиц**
+
+Используется датасет https://www.kaggle.com/wordsforthewise/lending-club
+
 - [01_data.ipynb](01_data.ipynb) - подготовка выборок
 - [01_int_rate_corr.ipynb](01_int_rate_corr.ipynb) - ноутбук с проверкой interest rate
 
